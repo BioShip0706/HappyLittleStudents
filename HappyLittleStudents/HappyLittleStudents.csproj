@@ -62,10 +62,6 @@
     <Content Include="bin\Debug\res\carte.txt" />
     <Content Include="bin\Debug\res\ostacoli.txt" />
     <Content Include="bin\Debug\res\personaggi.txt" />
-    <Content Include="bin\Debug\Salvataggi\1_10_10_2024.txt" />
-    <Content Include="bin\Debug\Salvataggi\ADO_10_10_2024.txt" />
-    <Content Include="bin\Debug\Salvataggi\CANETOPO_10_10_2024.txt" />
-    <Content Include="bin\Debug\Salvataggi\_10_10_2024.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,20 +1,20 @@
 8
 Perdi tutto
-Prof. Loddo chiede se i PC vanno e il tuo esplode perdendo il parziale
+Prof. Legno chiede se i PC vanno e il tuo esplode perdendo il parziale
 Sbiccato copiare
-Federico passa tra i banchi e ti becca con Discord aperto
+Marcus passa tra i banchi e ti becca con Discord aperto
 Maledetto Lab T
 I PC del laboratorio non partono e il parziale inizia con 45 minuti di ritardo
 Debugging infinito
 Dopo ore di debugging, scopri che il problema era una parentesi mancante
 Troppo veloce
-Ti distrai mezzo secondo per guardare TikTok e la Prof. Carrisi ha spiegato gli integrali tripli
+Ti distrai mezzo secondo per guardare TikTok e la Prof. Cartone ha spiegato gli integrali tripli
 Va tutto bene?
-Prof. Puglisi ti chiede se va tutto bene, ma non va tutto bene
+Prof. Batuffolo ti chiede se va tutto bene, ma non va tutto bene
 Printf scurrili
 Consegni il progetto di PR1 e scopri che hai lasciato un printf con una parolaccia
 Tutti fermi
-Durante PR1 parte la musica di Pokemon Smeraldo, Luca si ferma e tutti si girano a guardarti
+Durante PR1 parte la musica di Pokemon Smeraldo, Luke si ferma e tutti si girano a guardarti
 8
 Una fila infinita
 Arrivi in mensa in via Trentino e c'è una fila chilometrica
@@ -24,8 +24,8 @@ Sciopero del CTM
 Il CTM è in sciopero e non puoi tornare a casa
 Rotta della caffeina
 La macchinetta del caffè è fuori servizio e devi affrontare la giornata senza caffeina
-Mauro infuriato
-Durante la pausa pranzo sposti i puff e Mauro ti urla contro
+Markus infuriato
+Durante la pausa pranzo sposti i puff e Markus ti urla contro
 Intossicazione alimentare
 In mensa prendi le polpette e torni a casa con un colorito strano
 Batteria scarica
@@ -51,7 +51,7 @@ Molletta per il naso
 Vai in bagno durante la pausa di PR1 e trovi fila con il bagno che puzza moltissimo
 4
 PR1 Teoria
-Prof. Scateni scatena la sua furia e ti boccia al parziale di PR1
+Prof. Catena scatena la sua furia e ti boccia al parziale di PR1
 PR1 Lab
 Il progetto di PR1 non compila e non riesci a consegnarlo
 Analisi
